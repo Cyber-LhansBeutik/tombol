@@ -7,17 +7,17 @@ a ='\033[92m'
 b ='\033[91m'
 c ='\033[0m'
 os.system('clear')
-print(a+'\t ╔═══════════════════════╗')
-cetak ( a + '\ t ║ Author : Lhans Beutik     ║' )
-cetak ( a + '\ t ║ Didikan: Cyber R3D H4T    ║' )
-print(a+'\t ╚═══════════════════════╝')
+print ( a + '\ t ╔═══════════════════════╗')
+cetak ( a + '\ t ║ Penulis: Lhans Beutik     ║' )
+cetak ( a + '\ t ║ Didikan: Cyber R3D H4T.   ║' )
+print ( a + '\ t ╚═══════════════════════╝')
 print('\n[+] Proses..')
 sleep(1)
 print(b+'\n[+] making termux properties directory..')
 sleep(1)
 try:
-      os.mkdir('/data/data/com.termux/files/home/.termux')
-except:
+      os.mkdir('/data/data/com.termux/files/home/.termuxhttps://github.com/Cyber-LhansBeutik/tombol
+kecuali :
       pass
 print(a+'[+] Success !')
 sleep(1)
