@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# - * - coding: utf-8 - * -
 import os
 from time import sleep
 
@@ -8,8 +8,8 @@ b ='\033[91m'
 c ='\033[0m'
 os.system('clear')
 print(a+'\t ╔═══════════════════════╗')
-print(a+'\t ║      Mr.GameOver      ║')
-print(a+'\t ║       aadityaa        ║')
+cetak ( a + '\ t ║ Author : Lhans Beutik     ║' )
+cetak ( a + '\ t ║ Didikan: Cyber R3D H4T    ║' )
 print(a+'\t ╚═══════════════════════╝')
 print('\n[+] Proses..')
 sleep(1)
